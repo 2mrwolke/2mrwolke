@@ -20,7 +20,7 @@ I turn domain insights into physics-informed algorithms for **simulation and for
 - **[mlm8s_gpu](https://github.com/2mrwolke/mlm8s_gpu)**
   Helper class for Machine-Learning with software-in-the-loop
 - **Infrastructure as Code (IaC)** *(private)*
-  Fully declarative infra via Semi-dendritic Flakes-Parts
+  Fully declarative infra via Flakes-Parts (Semi-dendritic pattern)
 - **Automation** *(private)*
   LLM-Agents can: provision, build, bootstrap, and deploy VMs within **IaC**  
   (PVE, NixOS, Cloud-Init, Sops-Nix, Gitea, Colmena, Terraform)
