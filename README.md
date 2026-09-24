@@ -25,7 +25,7 @@ I turn domain insights into physics-informed algorithms for **simulation and for
   LLM-Agents can: provision, build, bootstrap, and deploy VMs within **IaC**  
   (PVE, NixOS, Cloud-Init, Sops-Nix, Gitea, Colmena, Terraform)
 
-## Background - 5 years across:
+## Background - 7 years across:
 - Identification & Filter Design (Klippel)
 - Time-Series Forecasting (IQnautics)
 - Medical Imaging (Independent)
