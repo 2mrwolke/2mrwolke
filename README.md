@@ -2,7 +2,7 @@
 
 I am an Electrical Engineer - TU Dresden - Dipl.-Ing. (M.Sc. equiv.)
 
-**Stack: TensorFlow, JAX, Nix, Flake-Parts**
+**Stack: TensorFlow, JAX, Nix/NixOS**
 
 ---
 
